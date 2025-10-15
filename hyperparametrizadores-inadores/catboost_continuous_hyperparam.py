@@ -45,7 +45,7 @@ def ccc_metric(y_true, y_pred):
 
 # ---------- 3. Target columns ----------
 target_cols = [
-    'Thal', 'Braak', 'CERAD', 'ADNC',
+    'Thal', 'Braak', 'CERAD', 'ADNC', "LEWY", "LATE"
     #
 ]
 
